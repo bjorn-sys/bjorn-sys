@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @bjorn-sys
+- 👋 Hi, I’m @Emmanuel
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...data analytics
 - 💞️ I’m looking to collaborate on ...python programming
-- 📫 How to reach me ...bjornironside419@gmail.com
+- 📫 How to reach me ...emmanuelekuonye948@gmail.com
 - 😄 Pronouns: ...he\him
 - ⚡ Fun fact: ...eager to learn
 
