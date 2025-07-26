@@ -32,7 +32,7 @@
 ## 📞 Contact Me
 
 - 📧 Email: [Emmanuel Ekuonye ](emmanuelekuonye948@gmail.com)
-- 🌐 LinkedIn: [EMMANUEL C. EKUONYE](https://www.linkedin.com/in/emmanuel-ekuonye/)
+- 🌐 LinkedIn: [EMMANUEL  EKUONYE](https://www.linkedin.com/in/ekuonye-chinonso-emmanuel-bb2041208/)
 - 🌐 Portfolio: [Emmanuel Ekuonye](https://www.datascienceportfol.io/emmanuelekuonye948)
  
 - 🤝 Let's connect and collaborate on exciting data science projects!
