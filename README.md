@@ -1,7 +1,6 @@
 ## Hi there 👋,
 
-### I'm EMMANUEL C. EKUONYE, a Resourceful Data Scientist passionate about statistics and machine learning.
-
+### Curious and driven Junior Data Scientist with a strong analytical foundation and hands-on experience in machine learning, data preprocessing, and statistical modeling. Proficient in Python, SQL, and libraries such as Pandas, NumPy, and Scikit-learn, with a proven ability to extract insights from large datasets. Adept at creating interactive dashboards with Power BI and Tableau to communicate complex findings to both technical and non-technical stakeholders. Collaborative, solutions-focused, and committed to leveraging data to solve real-world problems and support business growth.
 ---
 
 ## 🧐 About Me
@@ -27,11 +26,15 @@
 - "Naija-Sales-Restaurant-Sales-Analysis"
 - "Market_Return_Risk_Predictor"
 - "HR_Attrition_Model"
+- "Bankruptcy_Risk_Assessment"
+- "Energy_Sector_Churn_Model"
 
 ## 📞 Contact Me
 
-- 📧 Email: [example@email.com](mailto:example@email.com)
+- 📧 Email: [Emmanuel Ekuonye ](emmanuelekuonye948@gmail.com)
 - 🌐 LinkedIn: [EMMANUEL C. EKUONYE](https://www.linkedin.com/in/emmanuel-ekuonye/)
+- 🌐 Portfolio: [Emmanuel Ekuonye](https://www.datascienceportfol.io/emmanuelekuonye948)
+ 
 - 🤝 Let's connect and collaborate on exciting data science projects!
 
 ---
