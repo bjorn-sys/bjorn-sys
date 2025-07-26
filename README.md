@@ -1,6 +1,6 @@
 ## Hi there 👋,
 
-### Curious and driven Junior Data Scientist with a strong analytical foundation and hands-on experience in machine learning, data preprocessing, and statistical modeling. Proficient in Python, SQL, and libraries such as Pandas, NumPy, and Scikit-learn, with a proven ability to extract insights from large datasets. Adept at creating interactive dashboards with Power BI and Tableau to communicate complex findings to both technical and non-technical stakeholders. Collaborative, solutions-focused, and committed to leveraging data to solve real-world problems and support business growth.
+### I'm Emmanuel C. Ekuonye, A curious and driven Junior Data Scientist with a strong analytical foundation and hands-on experience in machine learning, data preprocessing, and statistical modeling. Proficient in Python, SQL, and libraries such as Pandas, NumPy, and Scikit-learn, with a proven ability to extract insights from large datasets. Adept at creating interactive dashboards with Power BI and Tableau to communicate complex findings to both technical and non-technical stakeholders. Collaborative, solutions-focused, and committed to leveraging data to solve real-world problems and support business growth.
 
 ---
 
