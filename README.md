@@ -1,6 +1,10 @@
 ## Hi there 👋,
 
-### I'm Emmanuel C. Ekuonye, A curious and driven Junior Data Scientist with a strong analytical foundation and hands-on experience in machine learning, data preprocessing, and statistical modeling. Proficient in Python, SQL, and libraries such as Pandas, NumPy, and Scikit-learn, with a proven ability to extract insights from large datasets. Adept at creating interactive dashboards with Power BI and Tableau to communicate complex findings to both technical and non-technical stakeholders. Collaborative, solutions-focused, and committed to leveraging data to solve real-world problems and support business growth.
+### I am a Data Scientist and Machine Learning Engineer with hands-on experience turning raw data into actionable insights and predictive solutions. Skilled in Python, SQL, and PySpark, I specialize in building, evaluating, and deploying machine learning models that drive measurable business impact.
+
+### Through multiple industry internships with Deloitte, BCG X, Tata Group, and Digital Dreams Limited, I’ve worked on predictive analytics, time series forecasting, clustering, and end-to-end ML pipelines. My experience spans data cleaning, EDA, model development, and visualization using tools like Tableau, Power BI, and Streamlit.
+
+### I’m passionate about solving real-world problems with data — whether that’s improving sales forecasting, building disease prediction models, or optimizing customer engagement strategies.
 
 ---
 
